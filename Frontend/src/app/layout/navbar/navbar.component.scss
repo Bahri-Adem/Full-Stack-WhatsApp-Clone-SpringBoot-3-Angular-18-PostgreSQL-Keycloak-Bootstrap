@@ -1,0 +1,22 @@
+@import "../../../assets/scss/bootstrap-variables";
+
+.dropdown-toggle::after {
+  content: none;
+}
+
+.wac-navbar {
+  background-color: $menu-bg-color;
+  height: $header-height;
+}
+
+#add {
+  cursor: pointer;
+}
+
+.discussions-text {
+  position: absolute; /* Positions the text independently */
+  padding-left: 0; /* Removes padding */
+  margin-left: 4%; /* Removes margins */
+  font-size: 1.2rem; /* Adjust font size if needed */
+  color: white; /* Ensure it's visible */
+}
