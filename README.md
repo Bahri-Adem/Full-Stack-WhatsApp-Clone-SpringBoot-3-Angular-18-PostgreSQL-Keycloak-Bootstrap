@@ -26,11 +26,11 @@ By the end of this project, you'll gain a deeper understanding of creating a ful
 
 ### Backend
 
-#### Prerequisites
-- **JDK**: Version 21
-- **PostgreSQL**: Latest
-- **IDE**: IntelliJ or VSCode
-- **Docker**: Docker Desktop
+### Prerequisites
+- [JDK 21](https://adoptium.net/temurin/releases/)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- IDE ([IntelliJ](https://www.jetbrains.com/idea/download/))
+- Docker ([Docker Desktop](https://docs.docker.com/engine/install/))
 
 #### Clone the Repository
 ```bash
@@ -49,9 +49,9 @@ docker-compose -f src/main/docker/postgres.yml up -d
 ### Frontend
 
 #### Prerequisites
-- **NodeJS**: Version 20.11 LTS
-- **Angular CLI**: Version 18
-- **IDE**: IntelliJ or VSCode
+- [NodeJS 20.11 LTS](https://nodejs.org/dist/v20.11.1/node-v20.11.1.pkg)
+- [Angular CLI v18](https://www.npmjs.com/package/@angular/cli)
+- IDE ([VSCode](https://code.visualstudio.com/download))
 
 #### Setup and Launch
 Fetch dependencies:
