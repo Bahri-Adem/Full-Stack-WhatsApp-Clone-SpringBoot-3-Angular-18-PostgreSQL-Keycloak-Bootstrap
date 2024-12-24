@@ -2,6 +2,8 @@
 
 A WhatsApp clone built with some of the latest and most efficient technologies of 2024! This project leverages **Spring Boot 3**, **Angular 18**, **PostgreSQL**, **Keycloak**, **Bootstrap**, **Liquibase**, and **Docker** to create a modern, scalable, and secure messaging application.
 
+![image](https://github.com/user-attachments/assets/542c1c0f-c49b-4b65-a4f4-7f47368b8e28)
+
 ## Key Features
 - 💬 **Real-time messaging**: Experience seamless communication.
 - 👥 **Conversations management**: Organize and manage chats effectively.
